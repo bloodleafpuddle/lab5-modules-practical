@@ -22,7 +22,15 @@ body {
 
 h1 {
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     letter-spacing: 3px;
-    font-size: 60px;
+    font-size: 80px;
+}
+
+p{
+    font-size: 40px;
+    letter-spacing: 8px;
+    margin-bottom: 3px;
+    padding: 10%;
+    text-align: center;
 }
